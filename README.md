@@ -1,3 +1,3 @@
 # Jupyter-Notebooks
 
-Storage repo used for ipynb files. Yup.
+Storage repo used for ipynb files.
